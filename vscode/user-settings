@@ -1,0 +1,21 @@
+{
+    "editor.rulers": [
+        80,
+        120
+    ],
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "gitlens.historyExplorer.enabled": true,
+    "git.confirmSync": false,
+    "files.trimFinalNewlines": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#505050",
+        "tab.activeForeground": "#ffffff",
+        "tab.inactiveForeground": "#ffffff",
+        "tab.unfocusedActiveForeground": "#ffffff",
+        "tab.unfocusedInactiveForeground": "#ffffff"
+    }
+}
