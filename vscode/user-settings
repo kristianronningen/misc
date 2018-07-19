@@ -3,6 +3,8 @@
         80,
         120
     ],
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
